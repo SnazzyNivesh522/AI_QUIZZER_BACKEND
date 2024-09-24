@@ -1,0 +1,6 @@
+flask
+flask-SQLAlchemy
+flask-jwt-extended
+mysqlclient==2.1.1
+python-dotenv
+google-generativeai

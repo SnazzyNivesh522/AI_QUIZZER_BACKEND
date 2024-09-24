@@ -1,0 +1,120 @@
+
+{
+    "grade": 5,
+    "subject": "Math",
+    "totalQuestions": 10,
+    "maxScore": 10,
+    "difficulty": "EASY",
+    "questions": [
+        {
+        "questionId": "q1",
+        "questionText": "What is 7 + 5?",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        },
+        "correctAnswer": "C"
+        },
+        {
+        "questionId": "q2",
+        "questionText": "What is 9 * 3?",
+        "options": {
+            "A": "27",
+            "B": "29",
+            "C": "30",
+            "D": "25"
+        },
+        "correctAnswer": "A"
+        },
+        {
+        "questionId": "q3",
+        "questionText": "What is 15 / 3?",
+        "options": {
+            "A": "6",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "correctAnswer": "B"
+        },
+        {
+        "questionId": "q4",
+        "questionText": "What is the value of Pi (approximately)?",
+        "options": {
+            "A": "3.1",
+            "B": "3.14",
+            "C": "3.1416",
+            "D": "3.142"
+        },
+        "correctAnswer": "B"
+        },
+        {
+        "questionId": "q5",
+        "questionText": "What is the area of a square with side length 4?",
+        "options": {
+            "A": "12",
+            "B": "16",
+            "C": "20",
+            "D": "24"
+        },
+        "correctAnswer": "B"
+        },
+        {
+        "questionId": "q6",
+        "questionText": "What is 50% of 200?",
+        "options": {
+            "A": "100",
+            "B": "120",
+            "C": "150",
+            "D": "110"
+        },
+        "correctAnswer": "A"
+        },
+        {
+        "questionId": "q7",
+        "questionText": "How many sides does a hexagon have?",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "correctAnswer": "C"
+        },
+        {
+        "questionId": "q8",
+        "questionText": "What is 8 * 8?",
+        "options": {
+            "A": "64",
+            "B": "66",
+            "C": "68",
+            "D": "60"
+        },
+        "correctAnswer": "A"
+        },
+        {
+        "questionId": "q9",
+        "questionText": "What is 25% of 400?",
+        "options": {
+            "A": "75",
+            "B": "100",
+            "C": "150",
+            "D": "50"
+        },
+        "correctAnswer": "B"
+        },
+        {
+        "questionId": "q10",
+        "questionText": "How many minutes are there in 2 hours?",
+        "options": {
+            "A": "60",
+            "B": "120",
+            "C": "90",
+            "D": "150"
+        },
+        "correctAnswer": "B"
+        }
+    ]
+}
